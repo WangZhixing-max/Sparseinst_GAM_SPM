@@ -1,2 +1,2 @@
 # Sparseinst_GAM_SPM
-The data is located in the "dataset" folder.
+the datasets have been uploaded to Baidu Pan at the following link:https://pan.baidu.com/s/1bT1RR-nHyhY_BAYxo3vwWg
